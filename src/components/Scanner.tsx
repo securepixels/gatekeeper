@@ -192,7 +192,7 @@ export function Scanner() {
       </div>
 
       <div className="footer">
-        <span>built by chrissy</span>
+        <span>built by Chrissy</span>
         <span>gatekeeper v1.0</span>
       </div>
     </>
